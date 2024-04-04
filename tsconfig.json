@@ -5,7 +5,7 @@
     "moduleResolution": "node",
     "paths": {
       "@components/*": ["./src/components/*"],
-      "@constants": ["./src/constants"],
+      "@constants/*": ["./src/constants/*"],
       "@screens": ["./src/screens"],
       "@types/*": ["./src/types/*"],
       "@types": ["./src/types"],
