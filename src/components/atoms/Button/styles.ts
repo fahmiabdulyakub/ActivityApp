@@ -6,9 +6,9 @@ export default StyleSheet.create({
   container: {
     justifyContent: 'center',
     alignItems: 'center',
-    borderRadius: 5,
-    height: hp(5),
-    width: wp(20),
+    borderRadius: 8,
+    paddingVertical: hp(1),
+    paddingHorizontal: wp(6),
     borderWidth: 1,
     borderColor: Colors.light_grey,
     shadowColor: Colors.black,
@@ -19,6 +19,7 @@ export default StyleSheet.create({
     shadowOpacity: 0.2,
     shadowRadius: 1.41,
     elevation: 2,
+    backgroundColor: Colors.blue,
   },
   title: {
     fontSize: hp(1.8),
