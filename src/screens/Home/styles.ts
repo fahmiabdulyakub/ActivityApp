@@ -23,6 +23,7 @@ const styles = StyleSheet.create({
     color: Colors.black,
     fontFamily: Fonts.PoppinsRegion,
     textAlign: 'center',
+    marginBottom: 16,
   },
   type: {
     fontSize: 16,
@@ -41,6 +42,7 @@ const styles = StyleSheet.create({
   },
   textType: {
     color: Colors.blue,
+    textTransform: 'capitalize',
   },
 });
 
