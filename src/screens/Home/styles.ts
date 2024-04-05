@@ -44,6 +44,9 @@ const styles = StyleSheet.create({
     color: Colors.blue,
     textTransform: 'capitalize',
   },
+  bottom: {
+    marginBottom: 16,
+  },
 });
 
 export default styles;
