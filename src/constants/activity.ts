@@ -1,9 +1,9 @@
-export const ACTIVITY_TYPE = [
+export const ACTIVITY_TYPES = [
   'Any Type',
   'Education',
-  'cooking',
+  'Cooking',
   'Music',
-  'Aocial',
+  'Social',
   'Relaxation',
-  'busywork',
+  'Busywork',
 ];
