@@ -20,6 +20,7 @@ export default StyleSheet.create({
     shadowRadius: 1.41,
     elevation: 2,
     backgroundColor: Colors.blue,
+    marginBottom: 16,
   },
   title: {
     fontSize: hp(1.8),
