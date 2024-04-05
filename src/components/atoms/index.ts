@@ -1,2 +1,4 @@
 import Button from './Button';
-export {Button};
+import HandleBottomSheet from './HandleBottomSheet';
+import BackdropBottomSheet from './BackdropBottomSheet';
+export {Button, HandleBottomSheet, BackdropBottomSheet};
